@@ -1,34 +1,30 @@
 
+div{
+	height:100px;
+	width: 100px;
 }
-.inline{
-	display: inline-block;
-}
-.uno{
-	background-color: yellow;
-	padding:90px;
-	width: 10px;
-}
-.dos{
-	background-color: red;
-	padding:90px;
-	width: 10px;
-}
-.tres{
-	background-color: blue;
-	padding:90px;
-	width: 10px;
-}
-div(.inline){
-	margin:11px;
-}
-.caja2{
-	display: inline-block;
+.cajasdecolores{
 	background-color: purple;
-	padding:90px;
-	width: 10px;
 }
-
-
+.caja{
+	background-color: purple;
+	margin: 10px;
+	display: inline-block;
+}
+.cajas{
+	background-color: purple;
+	display: inline-block;
+}
+#cajasocho{
+	height: 120px;
+	width: 370px;
+	background-color: yellow;
+	margin:4px;
+}
+.ultimacaja{
+	background-color: purple;
+	display: inline-block;
+}
 
 
 
